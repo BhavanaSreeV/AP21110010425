@@ -1,0 +1,182 @@
+{
+
+"companyName": "SRM University",
+
+"ownerName": "VEMURI BHAVANA SREE",
+
+"rollNo": "AP21110010425",
+
+"ownerEmail": "bhavanasree_vemuri@srmap.edu.in",
+
+"accessCode": "kJtfKH"
+
+}
+
+{
+    "companyName": "SRM University",
+    "clientID": "c3aaacde-df50-407f-be69-f3c860c88d61",
+    "clientSecret": "SqtsZjsJNbjDcTXC",
+    "ownerName": "VEMURI BHAVANA SREE",
+    "ownerEmail": "bhavanasree_vemuri@srmap.edu.in",
+    "rollNo": "AP21110010425"
+}
+
+{
+    "token_type": "Bearer",
+    "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiZXhwIjoxNzEyMTU3NjYzLCJpYXQiOjE3MTIxNTczNjMsImlzcyI6IkFmZm9yZG1lZCIsImp0aSI6ImMzYWFhY2RlLWRmNTAtNDA3Zi1iZTY5LWYzYzg2MGM4OGQ2MSIsInN1YiI6ImJoYXZhbmFzcmVlX3ZlbXVyaUBzcm1hcC5lZHUuaW4ifSwiY29tcGFueU5hbWUiOiJTUk0gVW5pdmVyc2l0eSIsImNsaWVudElEIjoiYzNhYWFjZGUtZGY1MC00MDdmLWJlNjktZjNjODYwYzg4ZDYxIiwiY2xpZW50U2VjcmV0IjoiU3F0c1pqc0pOYmpEY1RYQyIsIm93bmVyTmFtZSI6IlZFTVVSSSBCSEFWQU5BIFNSRUUiLCJvd25lckVtYWlsIjoiYmhhdmFuYXNyZWVfdmVtdXJpQHNybWFwLmVkdS5pbiIsInJvbGxObyI6IkFQMjExMTAwMTA0MjUifQ.dvgfrUUv6_XOH41_nIQbNi5sO_YF0xVJc1HKTxCvZA0",
+    "expires_in": 1712157663
+}
+
+#output:
+
+http://20.244.56.144/test/companies/AMZ/categories/Laptop/products?top=10&minPrice=1&maxPrice=10000
+
+[
+    {
+        "productName": "Laptop 13",
+        "price": 1244,
+        "rating": 4.42,
+        "discount": 45,
+        "availability": "yes"
+    },
+    {
+        "productName": "Laptop 14",
+        "price": 9254,
+        "rating": 4.34,
+        "discount": 56,
+        "availability": "yes"
+    },
+    {
+        "productName": "Laptop 1",
+        "price": 1059,
+        "rating": 3.71,
+        "discount": 21,
+        "availability": "yes"
+    },
+    {
+        "productName": "Laptop 11",
+        "price": 5683,
+        "rating": 3.65,
+        "discount": 56,
+        "availability": "yes"
+    },
+    {
+        "productName": "Laptop 8",
+        "price": 511,
+        "rating": 2.8,
+        "discount": 87,
+        "availability": "out-of-stock"
+    },
+    {
+        "productName": "Laptop 5",
+        "price": 7980,
+        "rating": 2.71,
+        "discount": 89,
+        "availability": "out-of-stock"
+    },
+    {
+        "productName": "Laptop 10",
+        "price": 7145,
+        "rating": 1.61,
+        "discount": 15,
+        "availability": "yes"
+    },
+    {
+        "productName": "Laptop 1",
+        "price": 8521,
+        "rating": 1.45,
+        "discount": 91,
+        "availability": "out-of-stock"
+    },
+    {
+        "productName": "Laptop 4",
+        "price": 1258,
+        "rating": 1.44,
+        "discount": 33,
+        "availability": "out-of-stock"
+    },
+    {
+        "productName": "Laptop 3",
+        "price": 9102,
+        "rating": 1.4,
+        "discount": 98,
+        "availability": "out-of-stock"
+    }
+]
+  
+http://20.244.56.144/test/companies/AZO/categories/Laptop/products?top=10&minPrice=1&maxPrice=10000
+
+http://20.244.56.144/test/companies/FLP/categories/Laptop/products?top=10&minPrice=1&maxPrice=10000
+
+[
+    {
+        "productName": "Laptop 2",
+        "price": 1582,
+        "rating": 4.48,
+        "discount": 39,
+        "availability": "yes"
+    },
+    {
+        "productName": "Laptop 2",
+        "price": 7340,
+        "rating": 4.35,
+        "discount": 28,
+        "availability": "yes"
+    },
+    {
+        "productName": "Laptop 2",
+        "price": 7240,
+        "rating": 3.92,
+        "discount": 63,
+        "availability": "yes"
+    },
+    {
+        "productName": "Laptop 5",
+        "price": 9847,
+        "rating": 3.65,
+        "discount": 39,
+        "availability": "out-of-stock"
+    },
+    {
+        "productName": "Laptop 8",
+        "price": 6326,
+        "rating": 2.97,
+        "discount": 13,
+        "availability": "yes"
+    },
+    {
+        "productName": "Laptop 13",
+        "price": 2714,
+        "rating": 2.92,
+        "discount": 45,
+        "availability": "out-of-stock"
+    },
+    {
+        "productName": "Laptop 10",
+        "price": 9167,
+        "rating": 2.65,
+        "discount": 84,
+        "availability": "yes"
+    },
+    {
+        "productName": "Laptop 11",
+        "price": 4348,
+        "rating": 2.47,
+        "discount": 9,
+        "availability": "yes"
+    },
+    {
+        "productName": "Laptop 15",
+        "price": 1069,
+        "rating": 2.33,
+        "discount": 25,
+        "availability": "out-of-stock"
+    },
+    {
+        "productName": "Laptop 2",
+        "price": 8114,
+        "rating": 2.23,
+        "discount": 93,
+        "availability": "yes"
+    }
+]
